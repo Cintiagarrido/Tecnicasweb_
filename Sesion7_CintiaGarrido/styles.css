@@ -1,0 +1,83 @@
+ h1{
+        font-family:serif ;
+        font-size:60px;
+        line-height: 1.2;
+        margin-left: 400px;
+        margin-right: 400px;
+        text-align: center;
+    }
+div{
+    background-color: rgb(255, 255, 255);
+}
+#intro{
+    background-color: rgb(48, 74, 92);
+    height: 66px;
+    margin-bottom: 20px;
+}
+#prueba{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 100px;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: center;
+    color: rgb(90, 90, 90);
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+    margin-left: 660px;
+    margin-right: 100px;
+    text-align:left;
+}
+#info{
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+#primer{
+    background-color: rgb(255, 255, 255);
+    height: 1050px;
+    margin-top: 40px;
+}
+dt{
+    font-size: 17px;
+    line-height: 50px;
+}
+#segundo{
+    background-color: rgb(255, 255, 255);
+    height: 1050px;
+    margin-top: 40px;
+}
+#tercero{
+    background-color: rgb(255, 255, 255);
+    height: 1050px;
+    margin-top: 40px;
+}
+#cuarto{
+    background-color: rgb(255, 255, 255);
+    height: 1100px;
+    margin-top: 40px;
+}
+#quinto{
+    background-color: rgb(255, 255, 255);
+    height: 1350px;
+    margin-top: 40px;
+}
+#sexto{
+    background-color: rgb(255, 255, 255);
+    height:70px;
+    margin-top: 40px;
+}
+#septimo{
+    background-color: rgb(255, 255, 255);
+    height:20px;
+    margin-top: 10px;
+    margin-bottom:55px;
+}

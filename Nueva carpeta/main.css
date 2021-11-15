@@ -1,0 +1,86 @@
+header {
+    text-align: center;
+    font-size: 90%;
+    background-color: rgb(253, 253, 253);
+    margin-top: 3%;
+    margin-bottom:1%;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 33%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
+.blur {
+    filter: blur(4px);
+}
+.brightness {
+    filter: brightness(250%);
+}
+.sepia {
+    filter: sepia(100%);
+}
+h2{
+    margin-right: 65%;
+}
+
+.padre{
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    text-align: center; 
+    width: 95%;
+    padding: 20px;
+}
+
+figure{
+    text-align: center; 
+    width: 33%;
+    padding: 20px;
+    background: rgb(255, 255, 255);
+    color: rgb(187, 187, 187);
+    margin-bottom:1%
+}
+
+div{ 
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    filter: blur(5px);
+    }
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+  }
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+figcaption{
+    font-size: 130%;
+    margin-top:6%;
+    color: black;
+    font-weight: bold;
+}

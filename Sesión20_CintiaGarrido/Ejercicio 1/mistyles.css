@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+section{
+    width: 45%;
+    height: 100vh;
+    background-color:aqua;
+    margin-left: -610px;
+    padding-right: 5px;
+    padding-left: 595px;
+    padding-top: 5px;
+    font-size: 15px;
+}
+
+
+article{
+    width: 80%;
+    height: 100vh;
+    background-color: blueviolet;
+    margin-left: 70px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+

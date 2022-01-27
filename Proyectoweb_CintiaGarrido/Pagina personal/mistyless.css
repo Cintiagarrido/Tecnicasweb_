@@ -1,0 +1,105 @@
+
+
+.fondo{
+    min-height: 90vh;
+}
+
+.cabecera{
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+.cabecera1{
+    background-color: rgb(255, 255, 255) ;
+}
+
+h1{
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+#segunda{
+    height: 1000px;
+    
+    background-color:rgb(84, 177, 179);
+}
+
+#tercera{
+    background-image: url(fondo2.jpg);
+    height: 1500px;
+    background-position: 20%;
+}
+
+#cuarta{
+    height: 200px;
+    background-color: rgb(45, 163, 163);
+}
+
+.intro1{
+    min-width: 120px;
+    height: 790px;
+    margin-right: 50px;
+    margin-left: 60px;
+    margin-top: 3px;
+    color: rgb(255, 255, 255);
+    line-height: 100px;
+    padding-top: 5%;
+}
+
+.informacion{
+    background-color: rgb(255, 255, 255);
+    height: 450px;
+}
+
+h2{ 
+    font-family: 'Archivo Narrow', sans-serif;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+h3{
+    padding-top: 100px;
+    color: rgb(0, 0, 0);
+    text-align:center;
+    
+}
+
+.infoverde{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    padding-top: 40px;
+    
+}
+
+.pie{
+    padding-top: 92px;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+}
+
+.navbar-header{
+    padding-top: 26px;
+    padding-left: 170px;
+    word-spacing: 30px;
+}
+
+.intro3{
+    background-image: url(bombilla.jpg);
+    background-position: center;
+    height: auto;
+    filter: blur(1px);
+    width: 100%;
+}
+
+
+#cabecerat{
+    color: black;
+    padding-top: 30px;
+    font-size: 20px;
+    
+}
+
